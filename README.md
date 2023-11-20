@@ -5,7 +5,7 @@ This repository contains C++ code for a string construction algorithm. The algor
 Files
 1. stringConstruction.h: Header file containing the function declaration.
 2. stringConstruction.cpp: Implementation of the string construction algorithm.
-3. TestStringCons.CPP: Test program with sample test cases.
+3. TestStringCons.cpp: Test program with sample test cases.
 4. testStringCons: Executable file generated from the code.
 
 How to Use:
